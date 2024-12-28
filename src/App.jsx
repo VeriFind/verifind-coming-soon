@@ -181,7 +181,7 @@ const App = () => {
             <CheckCircle className="w-4 h-4 text-blue-600" />
             Coming in 2025
           </p>
-          <p className="mt-2">© {new Date().getFullYear()} Verifind. All rights reserved.</p>
+          <p className="mt-2">© Verifind. All rights reserved.</p>
         </div>
       </div>
     </div>
