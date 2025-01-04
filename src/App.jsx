@@ -2,7 +2,7 @@ import React, { useState } from 'react';
 import { Card } from '@/components/ui/card';
 import { Timer, Users, Star, ArrowRight, CheckCircle, Zap, Target, LineChart, Trophy } from 'lucide-react';
 import { Alert, AlertDescription } from "@/components/ui/alert"
-import verifindLogo from './assets/verifind-logo.png';
+import verifindLogo from './assets/logo.png';
 
 const FeatureIcon = ({ children, className = "" }) => (
   <div className={`relative group-hover:scale-110 transition-all duration-300 ${className}`}>

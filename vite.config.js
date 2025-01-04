@@ -11,8 +11,8 @@ export default defineConfig({
       name: 'copy-social-image',
       closeBundle() {
         fs.copySync(
-          'src/assets/verifind-social-image.png',
-          'public/verifind-social-image.png'
+          'src/assets/social-image.png',
+          'public/social-image.png'
         )
       }
     }
